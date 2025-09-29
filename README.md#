@@ -1,0 +1,12 @@
+Code review 1 Coursework
+
+Project setup
+
+GitHub project for coursework set-up
+Product backlog created
+Project builds to self-contained JAR with Maven
+Dockerfile for prokect set-up and works
+GitHub Actions for project set-up and build is working using JAR and Docker
+Correct branches for GitFlow workflow created - includes master, develop and release branches
+First release created on GitHub
+Code of conduct defined
