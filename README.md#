@@ -11,4 +11,4 @@ Correct branches for GitFlow workflow created - includes master, develop and rel
 First release created on GitHub
 Code of conduct defined
 
-whaaat
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
